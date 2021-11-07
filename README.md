@@ -4,31 +4,24 @@
 
 **Yelp clone** displays a list of search results from the Yelp API and displays the results in a scrollable list. 
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [ ] Ability to query the Yelp API to get results from a search query
-* [ ] The search results are displayed in a RecyclerView
+* [X] Ability to query the Yelp API to get results from a search query
+* [X] The search results are displayed in a RecyclerView
 
 The following **extensions** are implemented:
 
-* [ ] User sees a descriptive error message if internet is not available
-* [ ] List anything else that you did to improve the app functionality or design!
+* [X] Added Yelp logo to Android Action Bar
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
+<img src='https://github.com/QueenChristina/yelp_clone/blob/main/src/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
